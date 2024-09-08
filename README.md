@@ -1,3 +1,4 @@
 # Kubernetes
 
-https://github.com/JosiTubaroski/Kubernetes/blob/main/img/Kubernetes.png
+<img src="https://github.com/JosiTubaroski/Kubernetes/blob/main/img/Kubernetes.png">
+
